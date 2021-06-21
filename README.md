@@ -43,3 +43,12 @@ Feito tudo isso, converto todos os valores não inteiro em inteiros.
 ![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/base_final.png "Porcentagem de sobrevivente por titulo")
 
 ## Criação do Modelo de ML
+
+Decido usar o RandomForest, por ser um algoritmo de simples entendimento, e por se adequar(segundo os casos de usos
+observados) perfeitamente ao caso do Titanic.
+
+![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/score.png"Porcentagem de sobrevivente por titulo")
+
+Ao final o modelo ficou com um score de 0.837 onde conseguiu acertar que 226 pessoas sobreviveriam errando somente 28, e que
+124 viriam a morrer, errando 40(O motivo da alta quantidade de erros pode ser a pouca quantidade de amostras onde as 
+pessoas morreriam no dataset, sigo trabalhando pra reduzir esse numero ;) ).
