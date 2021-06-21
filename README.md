@@ -36,4 +36,4 @@ a pessoa tinha a bordo do Titanic, e também transformo a coluna nomes em uma co
 pode ter influenciado em quem iria sobreviver). Divido também a coluna de 'Age' em intervalos, para ficar mais facil
 aplicar o modelo. Feito tudo isso, transformo todo os valores não inteiro em inteiros.
 
-![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/sobreviventes_p_titulo.png"Porcentagem de sobrevivente por titulo")
+![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/sobreviventes_p_titulo.png "Porcentagem de sobrevivente por titulo")
