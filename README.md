@@ -33,7 +33,13 @@ outra coluna para resolver o problema dos dados faltantes.
 
 Aqui faço a criação de novas colunas usando colunas já existentes, como a 'relatives' que indica quantos parentes
 a pessoa tinha a bordo do Titanic, e também transformo a coluna nomes em uma coluna de titulos(que também
-pode ter influenciado em quem iria sobreviver). Divido também a coluna de 'Age' em intervalos, para ficar mais facil
-aplicar o modelo. Feito tudo isso, transformo todo os valores não inteiro em inteiros.
+pode ter influenciado em quem iria sobreviver). Divido também a coluna de 'Age' em categorias, para ficar mais facil
+aplicar o modelo.
 
 ![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/sobreviventes_p_titulo.png "Porcentagem de sobrevivente por titulo")
+
+Feito tudo isso, converto todos os valores não inteiro em inteiros.
+
+![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/base_final.png "Porcentagem de sobrevivente por titulo")
+
+## Criação do Modelo de ML
