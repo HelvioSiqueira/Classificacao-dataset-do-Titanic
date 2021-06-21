@@ -8,7 +8,12 @@ estavam à bordo do navio.
 
 Esse é o meu contato com machine learning, então qualque erro à ser reportado ou critica, não hesite em me contatar.
 
-O dataset não está pronto pra uso(nenhuma novidade), então faço uma analise exploratoria inicial pra conhecer o dataset
-,que tem varios dados faltantes, colunas que não oferecem uso ou colunas que ainda precisa ser tratadas. 
+O dataset não está pronto pra uso(nenhuma novidade), então faço uma analise exploratoria inicial pra conhecer o dataset, 
+que tem varios dados faltantes, colunas que não oferecem uso ou colunas que ainda precisa ser tratadas. 
 
 ![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/dataset.png "Dataset Titanic")
+
+Com uso de graficos constastato que mulheres foram os sobreviventes predominantes e que pessoas que na 1° Classe tiveram
+maior chance de sobrevivencia, e tambem que pessoas com mais 3 parentes a bordo tiveram uma baixa chance de sobrevivencia
+
+![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/sobreviventes%20por%20sexo.png "Diferenciação de sobreviventes por sexo")
