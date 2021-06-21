@@ -10,3 +10,5 @@ Esse é o meu contato com machine learning, então qualque erro à ser reportado
 
 O dataset não está pronto pra uso(nenhuma novidade), então faço uma analise exploratoria inicial pra conhecer o dataset
 ,que tem varios dados faltantes, colunas que não oferecem uso ou colunas que ainda precisa ser tratadas. 
+
+![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/dataset.png "Dataset Titanic")
