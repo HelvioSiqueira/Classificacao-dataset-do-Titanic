@@ -13,7 +13,7 @@ que tem varios dados faltantes, colunas que não oferecem uso ou colunas que ain
 ![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/dataset.png "Dataset Titanic")
 
 Com uso de graficos constato que as mulheres foram os sobreviventes predominantes e que pessoas que na 1° Classe tiveram
-maior chance de sobrevivencia, e tambem que pessoas com mais 3 parentes a bordo tiveram uma baixa chance de sobrevivencia.
+maior chance de sobrevivencia, e tambem que pessoas com mais três parentes a bordo tiveram uma baixa chance de sobrevivência.
 
 ![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/sobreviventes%20por%20sexo.png "Diferenciação de sobreviventes por sexo")
 
