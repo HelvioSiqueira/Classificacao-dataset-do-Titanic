@@ -1,4 +1,4 @@
-# Previsão de sobreviventes no dessastre do Titanic
+# Previsão de sobreviventes no desastre do Titanic
 
 O RMS Titanic foi um navio de passageiros britânico que naufragou no dia 14 abril de 1912 com 1316 passageiros onde
 apenas 700 pessoas se salvaram. A competição do Kaggle [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
