@@ -41,8 +41,7 @@ Feito tudo isso, converto todos os valores não inteiro em inteiros.
 
 ## Criação do Modelo de ML
 
-Decido usar o RandomForest, por ser um algoritmo de simples entendimento, e por se adequar(segundo os casos de usos
-observados) perfeitamente ao caso do Titanic.
+Decido usar o RandomForest, por ser um algoritmo de simples entendimento.
 
 ![alt text](https://github.com/HelvioSiqueira/Classificacao-dataset-do-Titanic/blob/main/public/imagens/score.png "Porcentagem de sobrevivente por titulo")
 
